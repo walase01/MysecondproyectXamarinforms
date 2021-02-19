@@ -30,6 +30,7 @@ namespace xamarinformssecondapp
                             if (String.Equals(Password_.Text, ConfirmPassword.Text))
                             {
                                 await DisplayAlert("Welcome", $"Hola {Name_.Text}", "Ok");
+                                await Navigation.PushAsync(new MyMasterDetailPage());
                             }
                             else
                             {
