@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarinformssecondapp.RegisterPage">
+
+    <Grid ColumnDefinitions="*,10*,*" RowDefinitions="2*,3*,auto,auto,auto,auto,*,2*" >
+        <Image Grid.Column="1" Grid.Row="1"  Source="Intec.jpg" />
+        <Editor Grid.Column="1" Grid.Row="2" Placeholder="Name" x:Name="Name_"/>
+        <Editor Grid.Column="1" Grid.Row="3" Placeholder="Email" x:Name="Email_"/>
+        <Entry  Grid.Column="1" Grid.Row="4" Placeholder="Password" IsPassword="True" x:Name="Password_"/>
+        <Entry  Grid.Column="1" Grid.Row="5" Placeholder="Confirm Password" IsPassword="True" x:Name="ConfirmPassword"/>
+        <Button Grid.Column="1" Grid.Row="6" BackgroundColor="Red" TextColor="White" Text="Login" Clicked="Button_Clicked"/>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarinformssecondapp.PuntosExtrasPage">
+    
+    <ScrollView>
+        <Grid Padding="20" RowDefinitions="auto,auto,auto,auto,*,*,*" ColumnDefinitions="auto,auto" BackgroundColor="#B8F3FA">
+            <Label  Grid.Column="1" Grid.Row="0" Text="Feacture Course" FontSize="Body"/>
+            <Label Grid.Column="1" Grid.Row="1" Text="Stress will always be around. The trick is finding a few &#10;stress busters you can enjoy!"/>
+            <StackLayout  Grid.Row="2" Grid.Column="1" BackgroundColor="White" >
+                <Image Source="yoga" />
+                <Label Text="Foundations" FontSize="Title" HorizontalOptions="Center"/>
+                <Label Text="The guided meditation for beginner course will &#10;    introduce you to mindfuissnes. &#10; " HorizontalOptions="Center"/>
+                <Label Text="10 min" HorizontalOptions="Center"/>
+            </StackLayout>
+            
+                <Label Padding="20" Grid.Column="1" Grid.Row="3" Text="On the Go"/>
+            
+            <Button BackgroundColor="Bisque" Grid.Row="4" Grid.ColumnSpan="2" Padding="10"   HorizontalOptions="Center" Text="After work" />
+            <Button BackgroundColor="CornflowerBlue" Grid.Row="4" Grid.Column="1" Padding="10" HorizontalOptions="Start"  Text="Tough day" />
+            <Button BackgroundColor="SandyBrown" Grid.Row="5"   HorizontalOptions="Center" Grid.Column="1" Text="Good mornig" />
+            <Button BackgroundColor="Aquamarine" Grid.Row="5" HorizontalOptions="Start" Grid.Column="1" Text="Sleep" />
+            <Button BackgroundColor="Aqua" Grid.Row="6"  HorizontalOptions="Center" Grid.Column="1" Text="Quick break"  />
+            <Button BackgroundColor="GreenYellow" Grid.Row="6" HorizontalOptions="Start" Grid.Column="1"  Text="Big Event" />
+ 
+           
+        </Grid>
+
+    </ScrollView>
+    
+</ContentPage>

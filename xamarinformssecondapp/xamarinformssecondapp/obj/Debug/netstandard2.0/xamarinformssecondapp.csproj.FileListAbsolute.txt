@@ -1,0 +1,17 @@
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\bin\Debug\netstandard2.0\xamarinformssecondapp.deps.json
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\bin\Debug\netstandard2.0\xamarinformssecondapp.dll
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\bin\Debug\netstandard2.0\ref\xamarinformssecondapp.dll
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\bin\Debug\netstandard2.0\xamarinformssecondapp.pdb
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\LoginTabbedPage.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\MyMasterDetailPage.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\PuntosExtrasPage.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\xamarinformssecondapp.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\xamarinformssecondapp.AssemblyInfo.cs
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\xamarinformssecondapp.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\xamarinformssecondapp.dll
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\ref\xamarinformssecondapp.dll
+C:\Users\joser\source\repos\xamarinformssecondapp\xamarinformssecondapp\xamarinformssecondapp\obj\Debug\netstandard2.0\xamarinformssecondapp.pdb
